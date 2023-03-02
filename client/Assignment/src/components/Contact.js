@@ -41,12 +41,7 @@ const Contact = () => {
                 </form>
                 
             </div>
-            <div className='grid grid-cols-4 gap-36 lg:pl-24 pt-28'>
-            <div className='cursor-pointer hover:scale-105 duration-300'><FaGithub size={40}/></div>
-            <div className='cursor-pointer hover:scale-105 duration-300'><FaLinkedin size={40}/></div>
-            <div className='cursor-pointer hover:scale-105 duration-300'><FaInstagram size={40}/></div>
-            <div className='cursor-pointer hover:scale-105 duration-300'><HiOutlineMail size={40}/></div>
-            </div>
+            
         </div>
     </div>
   )
